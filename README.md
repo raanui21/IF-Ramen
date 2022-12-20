@@ -1,2 +1,5 @@
 # IF-Ramen
-project untuk penyelesaian tugas akhir matakuliah programming web
+project ini dibuat untuk penyelesaian tugas akhir matakuliah programming web
+
+Berikut link untuk mengakses website tersebut 
+https://raaturuonly.my.id/restoran/
