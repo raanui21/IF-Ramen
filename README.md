@@ -1,2 +1,2 @@
 # IF-Ramen
-project untuk penyelesaian tugas akhir programmin web
+project untuk penyelesaian tugas akhir matakuliah programming web
