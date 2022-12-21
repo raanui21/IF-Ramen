@@ -120,8 +120,8 @@ page[size="dipakai"][layout="landscape"] {
           RESTAURANT CEPAT SAJI
         </h4>
         <span>
-          Jl. Imam Bonjol No. 103 Ds. Tembarak, Kec. Kertosono, Kab. Nganjuk, Jatim<br>
-          Telp. +6289 xxx xxx xxx || E-mail exsample@gmail.com
+          Jl. Gw dimana ya , Kec. mamang garox, Kab. jancuk, Jawir<br>
+          Telp. 6969696969 || github : raanui21
         </span>
       </center>
             <hr>
